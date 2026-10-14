@@ -1,1 +1,2 @@
-# MLBNOW
+# MLB NOW
+안드로이드용 MLB 한국어 정보 앱
