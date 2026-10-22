@@ -1,6 +1,0 @@
-{
-  "name": "MLB NOW",
-  "description": "실시간 MLB 야구 경기 일정, 박스스코어, 팀 순위 및 응원팀 알림",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
